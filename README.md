@@ -59,11 +59,11 @@ Edita o ficheiro `main.py` com os teus dados:
 
 ```python
 # Dados obrigatórios do PR
-REPO = "MedicineOneAPI"
+REPO = "repository"
 PR_ID = 14097
 
 # Dados opcionais da issue (ou None)
-ISSUE_KEY = "M1-28446"
+ISSUE_KEY = "28446"
 
 # O que gerar
 GENERATE_DOCUMENTATION = True
